@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    color: pink;
+}
+body{
+    background-color: papayawhip;
+    justify-content: center;
+    align-items: center;
+    display:grid;
+}
+.honest{
+    background:tomato;
+}
+btn :hover{
+    background-color: aqua;
+}

@@ -1,0 +1,19 @@
+body{
+    background-color:papayawhip;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: double;
+    text-align: center;
+    justify-content: center;
+    margin:20px;
+    padding:10px;
+color: purple;
+}
+body{
+    background-color: palevioletred;
+}
+.boy{
+    width:780px;
+    height:680px;
+}

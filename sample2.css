@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.second{
+    background-color:greenyellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    justify-content: center;
+    align-items: center;
+    background-color: floralwhite;
+    display: grid;
+}
+.build{
+    height:700px;
+    width: 650px;
+}

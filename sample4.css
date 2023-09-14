@@ -1,0 +1,33 @@
+.inherit{
+  display:flex;
+  justify-content: flex-end;
+}
+nav ul {
+    list-style: none;
+    padding: 20px;
+    margin: 0.5px;
+    display: flex;
+  }
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+    justify-content: center;
+  }
+
+  body{
+    background-color:pink;
+  }
+
+  img{
+    height:500px;
+    width: 450px;
+  }
+
+.wowe{
+    justify-content: center;
+    display: grid;
+}
+p{
+  justify-content: center;
+  display: grid;
+}
